@@ -1,0 +1,15 @@
+artifact_uri: file:///E:/end-to-end/mlruns/0/ab512279b5e440ce929bd5ebf2aef019/artifacts
+end_time: 1720937315589
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ab512279b5e440ce929bd5ebf2aef019
+run_name: glamorous-shark-792
+run_uuid: ab512279b5e440ce929bd5ebf2aef019
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1720937312060
+status: 3
+tags: []
+user_id: kankk

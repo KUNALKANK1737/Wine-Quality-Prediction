@@ -1,0 +1,15 @@
+artifact_uri: file:///E:/end-to-end/mlruns/0/7686739804844242b06049ccecc03bd3/artifacts
+end_time: 1720937387153
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 7686739804844242b06049ccecc03bd3
+run_name: bemused-grouse-977
+run_uuid: 7686739804844242b06049ccecc03bd3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1720937383693
+status: 3
+tags: []
+user_id: kankk

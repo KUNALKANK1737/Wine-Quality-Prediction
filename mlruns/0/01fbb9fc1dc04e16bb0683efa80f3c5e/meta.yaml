@@ -1,0 +1,15 @@
+artifact_uri: file:///E:/end-to-end/mlruns/0/01fbb9fc1dc04e16bb0683efa80f3c5e/artifacts
+end_time: 1720937368143
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 01fbb9fc1dc04e16bb0683efa80f3c5e
+run_name: burly-shrew-330
+run_uuid: 01fbb9fc1dc04e16bb0683efa80f3c5e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1720937365153
+status: 3
+tags: []
+user_id: kankk
