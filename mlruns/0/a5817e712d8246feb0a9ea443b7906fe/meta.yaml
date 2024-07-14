@@ -1,0 +1,15 @@
+artifact_uri: file:///E:/end-to-end/mlruns/0/a5817e712d8246feb0a9ea443b7906fe/artifacts
+end_time: 1720938645327
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a5817e712d8246feb0a9ea443b7906fe
+run_name: amazing-grub-641
+run_uuid: a5817e712d8246feb0a9ea443b7906fe
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1720938638398
+status: 3
+tags: []
+user_id: kankk
