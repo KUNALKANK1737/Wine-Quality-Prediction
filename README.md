@@ -1,9 +1,6 @@
-Wine Quality Prediction
 
 
-
-
-# End-to-end-Machine-Learning-Project-with-MLflow
+# Wine Quality Prediction Using MLFLOW
 
 
 ## Workflows
@@ -58,10 +55,9 @@ open up you local host and port
 
 
 ## MLflow
+The below are the experiements which i have performed on the model and the best model is visible over this comparison .
 
-
-
-![download](https://github.com/user-attachments/assets/12be417d-b6e7-40e6-bc24-04f85d9da7f6)
+![download (1)](https://github.com/user-attachments/assets/a374ac17-feaa-42f4-b3e2-81216e48b7c9)
 
 [Documentation](https://mlflow.org/docs/latest/index.html)
 
