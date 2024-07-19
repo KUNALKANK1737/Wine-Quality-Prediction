@@ -2,7 +2,7 @@
 
 # Wine Quality Prediction Using MLFLOW
 
-
+Link of aws cloud where the model is deployed : http://18.208.131.55:8080/
 ## Workflows
 
 1. Update config.yaml
@@ -169,3 +169,9 @@ MLflow
  - Logging & tagging your model
 
 
+## Interface
+![Screenshot 2024-07-19 162340](https://github.com/user-attachments/assets/86b2cddb-1758-42d9-8451-8992c7604a97)
+
+
+
+![Screenshot 2024-07-19 162352](https://github.com/user-attachments/assets/9f9e25b8-3005-468e-af91-3e5c1d10e502)
