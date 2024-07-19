@@ -2,7 +2,7 @@
 
 # Wine Quality Prediction Using MLFLOW
 
-Link of aws cloud where the model is deployed : http://18.208.131.55:8080/
+Link of AWS cloud where the model is deployed: http://18.208.131.55:8080/ (The link may not work because I have stopped the instance on AWS)
 ## Workflows
 
 1. Update config.yaml
